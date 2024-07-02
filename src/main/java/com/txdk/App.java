@@ -3,10 +3,9 @@ package com.txdk;
 import java.io.IOException;
 import java.io.File;
 
-import com.HttpStatus;
-import com.api.WeatherService;
-import com.data.WeatherReport;
-import com.file.FileHandler;
+import com.txdk.api.WeatherService;
+import com.txdk.data.WeatherReport;
+import com.txdk.file.FileHandler;
 
 import picocli.CommandLine;
 import picocli.CommandLine.Command;

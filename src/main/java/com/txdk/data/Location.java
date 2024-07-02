@@ -1,4 +1,4 @@
-package com.data;
+package com.txdk.data;
 
 import com.google.gson.annotations.SerializedName;
 

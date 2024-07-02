@@ -1,4 +1,4 @@
-package com.file;
+package com.txdk.file;
 
 import java.io.File;
 import java.io.FileReader;

@@ -1,4 +1,4 @@
-package com.data;
+package com.txdk.data;
 
 import lombok.Getter;
 import lombok.Setter;

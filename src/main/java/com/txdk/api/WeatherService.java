@@ -1,6 +1,6 @@
-package com.api;
+package com.txdk.api;
 
-import com.data.WeatherReport;
+import com.txdk.data.WeatherReport;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
